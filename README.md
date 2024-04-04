@@ -1,10 +1,10 @@
 👋 Hi, I’m @SheebaNaik 🤖 Automation Testing Enthusiast 
 
->😄 Pronouns: She/Her
+😄 Pronouns: She/Her
 
->🔍 Certified Automation and Manual Tester 🛠️
+🔍 Certified Automation and Manual Tester 🛠️
 
->🔭 Currently seeking opportunities in Automation Testing
+🔭 Currently seeking opportunities in Automation Testing
 
 🌱 Learning Selenium, Java, SQL, and Postman to enhance testing capabilities
 
